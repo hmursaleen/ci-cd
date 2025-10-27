@@ -1,0 +1,28 @@
+learn.txt
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# Django
+db.sqlite3
+/staticfiles/
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
